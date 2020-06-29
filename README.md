@@ -2,7 +2,7 @@
 
 # PyTorch_GAN_MNIST 구현하기
 
-### Code : [Gitcode](https://github.com/khg11102/PyTorch-GAN)
+### Code : [Git](https://github.com/khg11102/PyTorch-GAN)
 
 ```python
 import torch
