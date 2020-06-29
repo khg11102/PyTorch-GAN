@@ -330,7 +330,7 @@ imshow_grid(G(sample_z(16,100)).view(-1, 1, 28, 28))
 
 ## **_GAN_MNIST_**
 
-![result](/Users/mac/Pictures/그림1.png)
+![result](https://github.com/khg11102/PyTorch-GAN/blob/master/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B71.png)
 
 ![graph](/Users/mac/Pictures/2.png)
 
